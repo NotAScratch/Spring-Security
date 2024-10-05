@@ -45,7 +45,7 @@ Maven is used for project build and dependency management.
 - **Spring Boot Starter Thymeleaf**: For server-side rendering.
 - **Spring Boot Starter Security**: For implementing security features.
 - **Spring Boot Starter Mail**: For sending verification emails.
-- **H2 Database**: In-memory database for development and testing.
+- **My SQL Database**: Database for development and testing.
 - **Lombok**: To reduce boilerplate code.
 
 ## Setup Instructions
